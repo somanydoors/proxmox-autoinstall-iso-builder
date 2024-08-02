@@ -21,3 +21,5 @@ docker run \
 	--cert-fingerprint "04:42:97:27:F6:29:2F:9F:3D:7F:13:11:C8:E2:F5:5F:84:03:95:D9:F5:14:72:7C:9E:90:47:03:D2:96:2B:EC"
 	--output /iso/proxmox-ve_8.2-1-autoinstall.iso
 ```
+
+More information about using the `proxmox-auto-install-assistant` tool can be found [in the Proxmox wiki](https://pve.proxmox.com/wiki/Automated_Installation).
